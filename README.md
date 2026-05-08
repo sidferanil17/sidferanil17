@@ -1,5 +1,5 @@
 # Hi there 👋
-
+I’m Sid Marvin Feranil. My path in tech really started when I jumped into my BSIT program, and it’s been a great ride since. I’ve found that I have a real knack for coding and keeping databases organized. To me, there’s nothing better than taking a messy, complicated problem and figuring out a way to turn it into a clean, simple solution that just works.
 ## 📘 Education
 - [New Era University] – [Bachelor of Science in Information Technology]
 
